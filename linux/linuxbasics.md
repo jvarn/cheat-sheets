@@ -22,7 +22,7 @@ network:
 ```
 2. Apply changes
 ```bash
-netplay apply
+netplan apply
 ```
 ## Change IP Address in Ubuntu 22.04 LTS
 ### gateway4 has been depricated in ubuntu 22.04 release and routes is used instead!
@@ -44,5 +44,5 @@ network:
 ```
 2. Apply changes
 ```bash
-netplay apply
+netplan apply
 ```
